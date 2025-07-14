@@ -22,9 +22,12 @@ h1 {
 
 .display {
     border-radius: 12px;
-    width: 400px;
-    height: 120px;
+    width: 360px;
+    height: 80px;
     background-color: rgb(255, 255, 255);
+    text-align: right;
+    font-size: x-large;
+    padding: 20px;
 }
 
 .keypad {
